@@ -1,2 +1,2 @@
-# whatsapp-chat
-this repository is to develop a chat application
+# test-github
+this repository is just for testing purpose
